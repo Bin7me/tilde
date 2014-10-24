@@ -1,0 +1,76 @@
+html {
+}
+
+body {
+	font-family: monospace;
+	font-size: 13px;
+	color: lightgrey;
+	background-color: black;
+	text-align: center;
+	border: 5px solid limegreen;
+	margin: 0px;
+}
+
+#header {
+	color: limegreen;
+	margin-top: 10px;
+	font-size: 13px;
+}
+
+#main {
+	margin: 20px auto 0px auto; 
+	text-align: justify;
+	max-width: 45em;
+	padding: 0px 10%;
+}
+
+#footer {
+	max-width: 56em;
+	margin: auto;
+	text-align: justify;
+}
+
+#footer-cow {
+	width: 24em;
+	margin: auto;
+}
+
+.article-header {
+	float: left;
+}
+
+.article {
+	margin-top: 0.5em;
+}
+
+.date {
+	float: right;
+}
+
+.signature {
+	margin-top: 0.5em;
+	text-align: right;
+}
+
+a {
+	color: limegreen;
+}
+
+a:hover {
+	color: lime;
+}
+
+h1, h2, h3, h4 {
+	color: limegreen;
+	margin: 0px;
+	font-size: 1em;
+	display: inline-block;
+}
+
+p {
+	margin: 0px;
+}
+
+pre, code {
+	margin: 0px;
+}
