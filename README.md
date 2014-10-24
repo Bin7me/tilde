@@ -1,4 +1,4 @@
 tilde
 =====
 
-My page on [germantil.de/~bin7me][germantil.de/~bin7me].
+My page on [germantil.de/~bin7me](http://germantil.de/~bin7me).
