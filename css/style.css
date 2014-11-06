@@ -11,6 +11,11 @@ body {
 	margin: 0px;
 }
 
+hr {
+	color: limegreen;
+	border: 1px solid limegreen;
+}
+
 #header {
 	color: limegreen;
 	margin-top: 10px;
@@ -33,6 +38,9 @@ body {
 #footer-cow {
 	width: 24em;
 	margin: auto;
+}
+
+.section{
 }
 
 .article-header {
