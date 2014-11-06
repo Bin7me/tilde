@@ -82,3 +82,36 @@ p {
 pre, code {
 	margin: 0px;
 }
+table {
+  display: block;
+  overflow: auto;
+  width: 100%;
+  border-collapse: collapse;
+  border-style: hidden;
+  text-align: left;
+}
+
+tbody {
+  border-bottom: 1px solid;
+}
+
+th {
+  border-top: 2px solid;
+  border-bottom: 1px solid;
+}
+
+th, td {
+  padding: .3em;
+  padding-right: .5em;
+  margin: 2px;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+td.first-column {
+  font-weight: bold;
+}
