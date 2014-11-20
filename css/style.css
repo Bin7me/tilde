@@ -121,6 +121,6 @@ td.first-column {
 
 @media(max-width: 400px) {
 	#header pre {
-		font-size: 8px;
+		font-size: 7px;
 	}
 }
