@@ -119,7 +119,12 @@ td.first-column {
   font-weight: bold;
 }
 
-@media(max-width: 400px) {
+@media(max-width: 549px) {
+	
+	body {
+		border: 2px solid limegreen;
+	}
+	
 	#header pre {
 		font-size: 7px;
 	}
