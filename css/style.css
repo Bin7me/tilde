@@ -19,7 +19,10 @@ hr {
 #header {
 	color: limegreen;
 	margin-top: 10px;
-	font-size: 13px;
+}
+
+#header pre {
+	font-size: small;
 }
 
 #main {
@@ -114,4 +117,10 @@ thead {
 
 td.first-column {
   font-weight: bold;
+}
+
+@media(max-width: 400px) {
+	#header pre {
+		font-size: 8px;
+	}
 }
