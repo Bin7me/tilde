@@ -29,7 +29,7 @@ hr {
 	margin: 20px auto 0px auto; 
 	text-align: justify;
 	max-width: 45em;
-	padding: 0px 10%;
+	padding: 0px 10px;
 }
 
 #footer {
@@ -131,8 +131,6 @@ td.first-column {
 	
 	#main {
 		max-width: 100%;
-		padding-left: 10px;
-		padding-right: 10px;
 		text-align: left;
 	}
 }
